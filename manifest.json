@@ -1,0 +1,9 @@
+{
+    "name": "SolarBatteriesFixed",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "手电筒照射电池自动充电。基于 Omniscye 的 Solar Charging 修复并独立发布。",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
