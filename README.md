@@ -84,7 +84,7 @@
 
 
 
-QQ群：573485890
+腾讯频道：#pd77525911
 
 
 > 本模组基于 Omniscye 的 Solar Charging 修改，同样以 GPL-3.0 发布；原项目版权归 Omniscye 所有。
